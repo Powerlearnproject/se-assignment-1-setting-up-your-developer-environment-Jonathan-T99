@@ -1,0 +1,24 @@
+documents detailed the set up process
+.I had already window 11 installed to my laptop.
+
+.While I was installing vscode, I reflect to search engine and I searched vscode for windows and i download it, then install it without any confusion.
+
+.github installation process are as follow:
+>went to https://git-scm.com
+>download installer for windows
+>and the run installer and follow well prompts to complete the installation.
+>launch vscode by searching vscode on laptop.
+> it open with welcom screen.
+
+.setting up git
+>git config --global user.name Jonathan-T99
+>git config --global user.email "my email"
+
+>the only challenges I was faced were to understand these command to be used including " git init,git status, git add, git commit..."
+
+.python
+> went to  https://www.python.org/downloads
+>click on "download Python"
+>once downloaded, click double on it to run it.
+>after installed, I opened powershell to check python version by typing "python --version".
+> python extansion installed by reflect to vscode found in sidebar in extension side.
